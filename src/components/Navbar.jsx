@@ -8,7 +8,7 @@ const Navbar = () => {
     <>
       <div className='flex items-center justify-between p-4 w-full z-[100] absolute'>
         <Link to='/'>
-        <h1 className='text-red-600 text-4xl font-bold cursor-pointer'>NETFLIX</h1>
+        <h1 className='text-red-600 text-4xl font-bold cursor-pointer'>WatchWave</h1>
         </Link>
         <div>
           <Link to='/SignIn'>
@@ -24,3 +24,4 @@ const Navbar = () => {
 }
 
 export default Navbar
+
