@@ -41,10 +41,11 @@ Contact Us</a></li>
           </ul>
         </div>
       </div>
-      <p className='text-gray-300 p-4 ml-14'>Netflix India</p>
+      <p className='text-gray-300 p-4 ml-14'>WatchWave</p>
       </div>
     </>
   )
 }
 
 export default Footer
+
